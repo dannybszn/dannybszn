@@ -17,9 +17,9 @@ I build applied AI, agent systems, and automation software. I taught myself to c
 | Project | What I built |
 | --- | --- |
 | [BetterSlip](https://dabullock.com/projects/betterslip/) | Real-time odds pipelines, analytics, and web/iOS apps. Scanned 140+ sportsbooks and reached 3,000+ users at peak. |
-| [Galaxsio](https://dabullock.com/projects/galaxsio/) | Purchasing automation with 20+ retailer integrations and 2,000+ users. Generated $2M in platform revenue. |
+| [Galaxsio](https://dabullock.com/projects/galaxsio/) | Purchasing automation with 20+ retailer integrations and 2,000+ users. |
 | [Watchtower Protection](https://dabullock.com/projects/watchtower/) | Content detection and enforcement workflows using CLIP and FaceNet. |
-| [Rockford Financial](https://dabullock.com/projects/rockford-financial/) | Purchasing automation and international operations that moved 50,000+ units and generated $6M+ in revenue, excluding software licensing. |
+| [Rockford Financial](https://dabullock.com/projects/rockford-financial/) | Purchasing automation and international operations that moved 50,000+ units. |
 
 ## How I work
 
